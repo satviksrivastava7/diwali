@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/diwali/static/css/main.ae6d517f.css",
+    "main.js": "/diwali/static/js/main.5e89425b.js",
+    "static/js/787.0d985c8f.chunk.js": "/diwali/static/js/787.0d985c8f.chunk.js",
+    "static/media/diwali-banner.png": "/diwali/static/media/diwali-banner.7ada58e98c60462338f7.png",
+    "static/media/CentraNo2-Bold.ttf": "/diwali/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/diwali/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/diwali/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/diya.svg": "/diwali/static/media/diya.9f068fb12e9f7b0bf90d521a27cbd487.svg",
+    "static/media/nav-icon3.svg": "/diwali/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/hackerrank.svg": "/diwali/static/media/hackerrank.ca170572e0eb5d5beef07dce8165b7f1.svg",
+    "static/media/github.svg": "/diwali/static/media/github.f9e095cd1e563290585e1fdc6fd29cbe.svg",
+    "index.html": "/diwali/index.html",
+    "static/media/nav-icon1.svg": "/diwali/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.ae6d517f.css.map": "/diwali/static/css/main.ae6d517f.css.map",
+    "main.5e89425b.js.map": "/diwali/static/js/main.5e89425b.js.map",
+    "787.0d985c8f.chunk.js.map": "/diwali/static/js/787.0d985c8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6d517f.css",
+    "static/js/main.5e89425b.js"
+  ]
+}
